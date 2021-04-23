@@ -1,2 +1,1 @@
-# FER
-Fast and Efficient text Retrieval
+# `SSCORE`: `S`emantic `S`imilarity Matching Using `Co`ntextualized `Re`presentations
