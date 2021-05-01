@@ -2,12 +2,14 @@
 name = "sscore"
 version = "0.1.0"
 description = "This package enencompasses the implementation of the paper Semantic Similarity Matching Using Contextualized Representations."
-authors = ["Reza Davari <rezazzr@hotmail.com>"]
+authors = ["Farhood Farahnak <farhood.farahnak@gmail.com>", "Reza Davari <rezazzr@hotmail.com>"]
 license = "MIT License"
 
 [tool.poetry.dependencies]
 python = "^3.8"
 black = "^21.4b2"
+aiohttp = "^3.7.4"
+aiohttp_cors = "^0.7.0"
 
 [tool.poetry.dev-dependencies]
 
