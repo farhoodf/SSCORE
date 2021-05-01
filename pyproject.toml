@@ -1,0 +1,16 @@
+[tool.poetry]
+name = "sscore"
+version = "0.1.0"
+description = "This package enencompasses the implementation of the paper Semantic Similarity Matching Using Contextualized Representations."
+authors = ["Reza Davari <rezazzr@hotmail.com>"]
+license = "MIT License"
+
+[tool.poetry.dependencies]
+python = "^3.8"
+black = "^21.4b2"
+
+[tool.poetry.dev-dependencies]
+
+[build-system]
+requires = ["poetry-core>=1.0.0"]
+build-backend = "poetry.core.masonry.api"
